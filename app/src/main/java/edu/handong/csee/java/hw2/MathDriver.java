@@ -5,7 +5,6 @@ import edu.handong.csee.java.hw2.MathCalculator;
 /**
  *     This is the MathDriver class
  *     containing main and run method.
- *     nice
 */
 public class MathDriver {
     /**
